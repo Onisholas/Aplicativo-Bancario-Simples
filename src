@@ -14,7 +14,7 @@ public class Banco {
         System.out.println("\n***********************\"");
 
         String menu = """
-                1- ** Consultar saldo **
+                \n1- ** Consultar saldo **
                 2- ** Transferir um valor **
                 3- ** Depositar um valor **
                 4- ** Sair ** 
