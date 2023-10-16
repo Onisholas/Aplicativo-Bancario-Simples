@@ -18,4 +18,4 @@ Antes de executar o aplicativo, você deve ter o [Java Development Kit (JDK)](ht
 1. Clone o repositório:
 
    ```bash
-   git clone [https://github.com/Onisholas/Aplicativo-Bancario-Simples.git]
+   https://github.com/Onisholas/Aplicativo-Bancario-Simples.git
